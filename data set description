@@ -17,10 +17,6 @@ products (50k rows):
     aisle_id: foreign key
     department_id: foreign key
 
-aisles (134 rows):
-
-    aisle_id: aisle identifier
-    aisle: the name of the aisle
 
 deptartments (21 rows):
 
